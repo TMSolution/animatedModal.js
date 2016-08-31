@@ -1,12 +1,14 @@
 {
-  "name": "animatedmodal",
-  "main": "animatedmodal",
+  "name": "tmsolution-animatedmodal",
+  "description": "animatedModal.js is a jQuery plugin to create a fullscreen modal with CSS3 transitions. you can use the transitions by animate.css or create yourself their transitions.",
+  "keywords": [
+    "animatedmodal"
+  
+  ],
   "version": "0.1.0",
-  "homepage": "https://github.com/joaopereirawd/animatedModal.js",
   "authors": [
     "João Pereira <joaopereirawd@gmail.com>"
   ],
-  "description": "animatedModal.js is a jQuery plugin to create a fullscreen modal with CSS3 transitions. you can use the transitions by animate.css or create yourself their transitions.",
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -14,5 +16,7 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "license": "MIT"
+  
 }
